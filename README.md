@@ -1,4 +1,4 @@
-# **Whisker's Odyssey - OOP Homework 1 Submission**  
+# **Whisker's Odyssey**  
 
 ## **Overview**  
 This project is part of **Object-Oriented Programming (OOP) Homework 1**. Whisker's Odyssey is a text-based adventure game where the player, Alex, embarks on a quest to rescue their cat, Whisker, from an eccentric wizard. The game involves navigating through different locations, collecting Lost Collar Charms, and managing limited Treats to reach the final destination.  
